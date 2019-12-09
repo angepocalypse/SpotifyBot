@@ -1,0 +1,12 @@
+{
+    "Discord": {
+        "TOKEN": "{Your Discord Bot Token}"
+    },
+    "Spotify": {
+        "SPOTIPY_CLIENT_ID": "{Your Spotipy client id}",
+        "SPOTIPY_CLIENT_SECRET": "{Your Spotipy client secret}",
+        "REDIRECT_URI": "http://localhost:8080/",
+        "SCOPE": "playlist-modify-public",
+        "USERNAME": "{Username for spotify account}"
+    }
+}
