@@ -1,5 +1,5 @@
 # SpotifyBot
-SpotifyBot for Discord
+SpotifyBot for Discord. Scans through current channel's history for youtube links, then searches spotify for song titles and creates a playlist.
 
 
 ## Setup
