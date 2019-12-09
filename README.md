@@ -1,6 +1,5 @@
 # SpotifyBot
 SpotifyBot for Discord
-<<<<<<< HEAD
 
 
 ## Setup
@@ -25,7 +24,7 @@ Edit the config.json file with your Discord Bot token and Spotify API Credential
       "SCOPE": "playlist-modify-public",
       "USERNAME": "{Username for spotify account}"
     }
-  }
+}
   
 ```
 
@@ -33,5 +32,3 @@ Edit the config.json file with your Discord Bot token and Spotify API Credential
 ```bash
 python SpotifyBot.py
 ```
-=======
->>>>>>> a5d435f2db21b90305fe5e773b784f2b9b4f6b12
